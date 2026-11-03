@@ -1,0 +1,11 @@
+C:\Users\ikste\CaptainRojo-Desktop\src-tauri\target\release\deps\tauri_build-bf06a244ad35d793.d: C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-build-2.7.4\src\lib.rs C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-build-2.7.4\src\acl.rs C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-build-2.7.4\src\manifest.rs C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-build-2.7.4\src\mobile.rs C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-build-2.7.4\src\windows-app-manifest.xml
+
+C:\Users\ikste\CaptainRojo-Desktop\src-tauri\target\release\deps\libtauri_build-bf06a244ad35d793.rlib: C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-build-2.7.4\src\lib.rs C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-build-2.7.4\src\acl.rs C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-build-2.7.4\src\manifest.rs C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-build-2.7.4\src\mobile.rs C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-build-2.7.4\src\windows-app-manifest.xml
+
+C:\Users\ikste\CaptainRojo-Desktop\src-tauri\target\release\deps\libtauri_build-bf06a244ad35d793.rmeta: C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-build-2.7.4\src\lib.rs C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-build-2.7.4\src\acl.rs C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-build-2.7.4\src\manifest.rs C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-build-2.7.4\src\mobile.rs C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-build-2.7.4\src\windows-app-manifest.xml
+
+C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-build-2.7.4\src\lib.rs:
+C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-build-2.7.4\src\acl.rs:
+C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-build-2.7.4\src\manifest.rs:
+C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-build-2.7.4\src\mobile.rs:
+C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-build-2.7.4\src\windows-app-manifest.xml:

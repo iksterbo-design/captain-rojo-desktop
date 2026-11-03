@@ -1,0 +1,26 @@
+{
+  "build": {
+    "beforeDevCommand": "npm run dev",
+    "beforeBuildCommand": "npm run build",
+    "frontendDist": "../dist",
+    "devUrl": "http://localhost:1420"
+  },
+  "productName": "Captain Rojo",
+  "version": "1.0.0",
+  "identifier": "com.rojo.captainrojo",
+  "app": {
+    "windows": [
+      {
+        "width": 1280,
+        "height": 800,
+        "minWidth": 900,
+        "minHeight": 600
+      }
+    ]
+  },
+  "bundle": {
+    "active": true,
+    "targets": "nsis",
+    "icon": ["icons/icon.ico", "icons/icon.png"]
+  }
+}

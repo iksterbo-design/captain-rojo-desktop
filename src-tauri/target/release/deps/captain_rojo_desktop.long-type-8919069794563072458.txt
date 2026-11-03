@@ -1,0 +1,1 @@
+std::sync::MutexGuard<'_, (HashMap<std::string::String, (usize, std::string::String)>, usize)>

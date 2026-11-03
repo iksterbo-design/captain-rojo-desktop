@@ -1,0 +1,14 @@
+C:\Users\ikste\CaptainRojo-Desktop\src-tauri\target\release\deps\thiserror-34515ce73d6b8833.d: C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.21\src\lib.rs C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.21\src\aserror.rs C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.21\src\display.rs C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.21\src\var.rs C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.21\src\private.rs C:\Users\ikste\CaptainRojo-Desktop\src-tauri\target\release\build\thiserror-5a8957f8614b8b88\out/private.rs
+
+C:\Users\ikste\CaptainRojo-Desktop\src-tauri\target\release\deps\libthiserror-34515ce73d6b8833.rlib: C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.21\src\lib.rs C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.21\src\aserror.rs C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.21\src\display.rs C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.21\src\var.rs C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.21\src\private.rs C:\Users\ikste\CaptainRojo-Desktop\src-tauri\target\release\build\thiserror-5a8957f8614b8b88\out/private.rs
+
+C:\Users\ikste\CaptainRojo-Desktop\src-tauri\target\release\deps\libthiserror-34515ce73d6b8833.rmeta: C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.21\src\lib.rs C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.21\src\aserror.rs C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.21\src\display.rs C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.21\src\var.rs C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.21\src\private.rs C:\Users\ikste\CaptainRojo-Desktop\src-tauri\target\release\build\thiserror-5a8957f8614b8b88\out/private.rs
+
+C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.21\src\lib.rs:
+C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.21\src\aserror.rs:
+C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.21\src\display.rs:
+C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.21\src\var.rs:
+C:\Users\ikste\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.21\src\private.rs:
+C:\Users\ikste\CaptainRojo-Desktop\src-tauri\target\release\build\thiserror-5a8957f8614b8b88\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\ikste\\CaptainRojo-Desktop\\src-tauri\\target\\release\\build\\thiserror-5a8957f8614b8b88\\out

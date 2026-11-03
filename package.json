@@ -1,0 +1,28 @@
+{
+  "name": "captain-rojo-desktop",
+  "version": "1.0.0",
+  "description": "Captain Rojo / Build a Dream — AI branding & ad-production desktop app",
+  "private": true,
+  "scripts": {
+    "dev": "tauri dev",
+    "build": "vite build",
+    "serve": "vite",
+    "lint": "eslint . --fix",
+    "tauri:build": "tauri build"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "^2.x",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.x",
+    "@vitejs/plugin-react": "^4.x",
+    "vite": "^5.x",
+    "tailwindcss": "^3.x",
+    "postcss": "^8.x",
+    "autoprefixer": "^10.x",
+    "eslint": "^8.x",
+    "eslint-plugin-react": "^7.x"
+  }
+}
